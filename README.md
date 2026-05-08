@@ -6,7 +6,7 @@
 ## 🚀 如何使用
 點擊下方按鈕直接進入 Google Colab 執行環境：
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sam53283/SCH-BOM-_V1.0/blob/main/V1_0 .ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sam53283/SCH-BOM-_V1.0/blob/main/V1_0.ipynb)
 
 ## 📋 準備工作
 在使用工具前，請確保您有以下兩個檔案：
